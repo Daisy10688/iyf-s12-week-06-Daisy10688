@@ -49,9 +49,8 @@ iyf-s12-week-06-Daisy10688/
 - JavaScript
 - Node.js
 - VS Code
-
+- Git and GitHub
 ## Live Demo
 [view my live weather page here](https://daisy10688.github.io/iyf-s12-week-06-Daisy10688/)
-- Git and GitHub
 
 **Status:** Completed
